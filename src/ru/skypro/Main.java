@@ -5,17 +5,7 @@ import java.sql.SQLOutput;
 public class Main {
 
     public static void main(String[] args) {
-        // задание тест
 
-        int age = 7;
-        if (age == 18) {
-            System.out.println("С окончанием школы ");
-        } else if (age == 21) {
-            System.out.println("Теперь можно бухать ");
-        } else if (age == 7) {
-            System.out.println("Иди в школу ");}
-        else {
-            System.out.println("Пока сказать нечего ");}
 
 
         // задание 1
